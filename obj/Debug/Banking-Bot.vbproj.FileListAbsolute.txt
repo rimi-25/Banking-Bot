@@ -1,0 +1,8 @@
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\bin\Banking-Bot.dll
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\bin\Banking-Bot.pdb
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\bin\Banking-Bot.xml
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\obj\Debug\Banking_Bot.Resources.resources
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\obj\Debug\Banking-Bot.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\obj\Debug\Banking-Bot.dll
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\obj\Debug\Banking-Bot.xml
+C:\Users\user\documents\visual studio 2012\Projects\Banking-Bot\Banking-Bot\obj\Debug\Banking-Bot.pdb

@@ -1,0 +1,62 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site5.master.vb" Inherits="Banking_Bot.Site5" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Menu ID="Menu2" runat="server" Orientation="Horizontal">
+                <Items>
+                    <asp:MenuItem Text="Users" Value="Users">
+                        <asp:MenuItem Text="Users Details" Value="Users Details"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Accounts" Value="Accounts">
+                        <asp:MenuItem Text="Account Details" Value="Account Details"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Transactions" Value="Transactions">
+                        <asp:MenuItem Text="Transaction Details" Value="Transaction Details"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem></asp:MenuItem>
+                    <asp:MenuItem Text="Branches" Value="Branches">
+                        <asp:MenuItem Text="Branch Details" Value="Branch Details"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="LoanAccounts" Value="LoanAccounts">
+                        <asp:MenuItem Text="Loan Details" Value="Loan Details"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Message" Value="Message">
+                        <asp:MenuItem Text="Messages" Value="Messages"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="FixedDeposits" Value="FixedDeposits">
+                        <asp:MenuItem Text="FixedDeposits" Value="FixedDeposits"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Cards" Value="Cards">
+                        <asp:MenuItem Text="Card Details" Value="Card Details"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="SavingsAccount" Value="SavingsAccount">
+                        <asp:MenuItem Text="Savings Account" Value="Savings Account"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Employees" Value="Employees">
+                        <asp:MenuItem Text="Employee Details" Value="Employee Details"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="AccountType" Value="AccountType">
+                        <asp:MenuItem Text="Account Type" Value="Account Type"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Designation" Value="Designation">
+                        <asp:MenuItem Text="Designation" Value="Designation"></asp:MenuItem>
+                    </asp:MenuItem>
+                </Items>
+            </asp:Menu>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
